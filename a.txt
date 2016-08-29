@@ -1,0 +1,8 @@
+Main()
+{
+print "hello word"
+}
+Method()
+{
+print "my name is ccb"
+}
