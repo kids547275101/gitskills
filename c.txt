@@ -1,0 +1,4 @@
+Method()
+{
+print "my name is ccb"
+}
