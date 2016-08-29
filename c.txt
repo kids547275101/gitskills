@@ -6,3 +6,5 @@ Main()
 {
 print "my name is "cc1"
 }
+main1(){
+}
