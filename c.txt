@@ -2,3 +2,7 @@ Method()
 {
 print "my name is ccb"
 }
+Main()
+{
+print "my name is "cc1"
+}
