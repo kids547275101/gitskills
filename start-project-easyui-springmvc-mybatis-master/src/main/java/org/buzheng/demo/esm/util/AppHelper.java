@@ -8,6 +8,8 @@ public class AppHelper {
 	 * @return
 	 */
 	public static String encryptPassword(String passwordSource) {
+		int a=1;
+		String s="s";
 		return EncryptUtils.encryptByMD5(passwordSource);
 	}
 }
